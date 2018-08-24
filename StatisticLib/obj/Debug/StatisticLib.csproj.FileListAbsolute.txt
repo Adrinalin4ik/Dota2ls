@@ -1,0 +1,20 @@
+E:\Программы C#\Dota2ls\StatisticLib\bin\Debug\StatisticLib.dll
+E:\Программы C#\Dota2ls\StatisticLib\bin\Debug\StatisticLib.pdb
+E:\Программы C#\Dota2ls\StatisticLib\obj\Debug\StatisticLib.csprojResolveAssemblyReference.cache
+E:\Программы C#\Dota2ls\StatisticLib\obj\Debug\StatisticLib.dll
+E:\Программы C#\Dota2ls\StatisticLib\obj\Debug\StatisticLib.pdb
+D:\Программы C#\Dota2ls\StatisticLib\bin\Debug\StatisticLib.dll
+D:\Программы C#\Dota2ls\StatisticLib\bin\Debug\StatisticLib.pdb
+D:\Программы C#\Dota2ls\StatisticLib\bin\Debug\Newtonsoft.Json.dll
+D:\Программы C#\Dota2ls\StatisticLib\bin\Debug\System.Net.Http.dll
+D:\Программы C#\Dota2ls\StatisticLib\bin\Debug\System.Net.Http.xml
+D:\Программы C#\Dota2ls\StatisticLib\obj\Debug\StatisticLib.dll
+D:\Программы C#\Dota2ls\StatisticLib\obj\Debug\StatisticLib.pdb
+D:\Программы C#\Dota2ls\StatisticLib\obj\Debug\StatisticLib.csprojResolveAssemblyReference.cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\bin\Debug\StatisticLib.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\bin\Debug\StatisticLib.pdb
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\bin\Debug\System.Net.Http.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\bin\Debug\System.Net.Http.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\obj\Debug\StatisticLib.csprojResolveAssemblyReference.cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\obj\Debug\StatisticLib.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\StatisticLib\obj\Debug\StatisticLib.pdb

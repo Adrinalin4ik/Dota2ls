@@ -1,0 +1,140 @@
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe.config
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.pdb
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\img\dota-map-6.82.jpg
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.pdb
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\StatisticLib.dll
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\StatisticLib.pdb
+E:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Microsoft.Expression.Drawing.xml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.csprojResolveAssemblyReference.cache
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Simple Styles.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Brushes.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Core.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Icons.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\UserControl1.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\App.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2lsWindow.g.cs
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Core.g.cs
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\UserControl1.g.cs
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\App.g.cs
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls_MarkupCompile.cache
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls_MarkupCompile.lref
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2lsWindow.baml
+E:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.g.resources
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\img\dota-map-6.82.jpg
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe.config
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.pdb
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\StatisticLib.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\StatisticLib.pdb
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.csprojResolveAssemblyReference.cache
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Simple Styles.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Brushes.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Core.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Icons.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\UserControl1.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\App.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2lsWindow.g.cs
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Themes\Core.g.cs
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\UserControl1.g.cs
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\App.g.cs
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls_MarkupCompile.cache
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls_MarkupCompile.lref
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2lsWindow.baml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.g.resources
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.pdb
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Newtonsoft.Json.dll
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Startup.g.cs
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Startup.baml
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe.manifest
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\Dota2ls.application
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.Properties.Resources.resources
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.csproj.GenerateResource.Cache
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.TrustInfo.xml
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe.manifest
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.application
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Mvvm.v15.1.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Xpf.Core.v15.1.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\U2UConsult.RichHtmlTextBlock.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\U2UConsult.RichHtmlTextBlock.pdb
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Mvvm.v15.1.xml
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe.licenses
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe.config
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.pdb
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\img\dota-map-6.82.jpg
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe.manifest
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Dota2ls.application
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Dota2ls.exe
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Dota2ls.pdb
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Newtonsoft.Json.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\StatisticLib.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\U2UConsult.RichHtmlTextBlock.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\StatisticLib.pdb
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\U2UConsult.RichHtmlTextBlock.pdb
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\DevExpress.Mvvm.v15.1.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\DevExpress.Xpf.Core.v15.1.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\de\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\es\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\ja\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\bin\Debug\ru\DevExpress.Xpf.Core.v15.1.resources.dll
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.csprojResolveAssemblyReference.cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Simple Styles.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Themes\Brushes.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Themes\Core.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Themes\Icons.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\UserControl1.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\App.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2lsWindow.g.cs
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Startup.g.cs
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Themes\Core.g.cs
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\UserControl1.g.cs
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\App.g.cs
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls_MarkupCompile.cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls_MarkupCompile.lref
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2lsWindow.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Startup.baml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.g.resources
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.Properties.Resources.resources
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.csproj.GenerateResource.Cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe.licenses
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.TrustInfo.xml
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.exe.manifest
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls\obj\Debug\Dota2ls.application

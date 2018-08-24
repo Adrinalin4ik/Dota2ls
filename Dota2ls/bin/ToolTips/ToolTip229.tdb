@@ -1,0 +1,24 @@
+Solar Crest
+Gold 3000
+
+Active: Temporarily removes the armor and evasion from Solar Crest. 
+When cast on an ally it grants them 10 armor and 30% evasion. 
+When cast on an enemy it removes 10 of their armor and blinds them, 
+causing them to miss 30% of their attacks.
+
++ 10 Armor
++ 75% Mana Regeneration
++ 30% Evasion
+SHINE ALLY BONUS ARMOR: 10
+SHINE ALLY EVASION: 30%
+SHINE ENEMY ARMOR LOSS: -10
+SHINE ENEMY MISS CHANCE: 30%
+SHINE DURATION: 7
+SHINE CAST RANGE: 1000
+Cooldown 7
+
+Builds from
+Talisman of Evasion 1800
+Medallion of Courage 1200
+
+A talisman forged to honor the daytime sky.

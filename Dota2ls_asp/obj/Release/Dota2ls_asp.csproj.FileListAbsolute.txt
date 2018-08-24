@@ -1,0 +1,27 @@
+E:\Программы C#\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.exe.config
+E:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.exe
+E:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.pdb
+E:\Программы C#\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.exe
+E:\Программы C#\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.pdb
+E:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.csprojResolveAssemblyReference.cache
+E:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.Form1.resources
+E:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.Properties.Resources.resources
+E:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.csproj.GenerateResource.Cache
+D:\Программы C#\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.exe.config
+D:\Программы C#\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.exe
+D:\Программы C#\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.pdb
+D:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.Form1.resources
+D:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.Properties.Resources.resources
+D:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.csproj.GenerateResource.Cache
+D:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.exe
+D:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.pdb
+D:\Программы C#\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.csprojResolveAssemblyReference.cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.exe.config
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.exe
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\bin\Release\Dota2ls_asp.pdb
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.csprojResolveAssemblyReference.cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.Form1.resources
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.Properties.Resources.resources
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.csproj.GenerateResource.Cache
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.exe
+D:\Программы C#\saved dota2ls\3 gif test\Dota2ls\Dota2ls_asp\obj\Release\Dota2ls_asp.pdb
